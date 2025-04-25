@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinion05&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=pinion05&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinion05&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinion05&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="295" alt="activity-graph graph"  />
   
 </div>
 

@@ -7,7 +7,11 @@
 </div>
 
 ###
-https://tokscale.ai/u/pinion05
+
+
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.licdn.com/dms/image/v2/D4D22AQEvwZwrv624cQ/feedshare-shrink_800/feedshare-shrink_800/0/1701952933212?e=1769644800&amp;v=beta&amp;t=3GfSsqkLkRPQh7fBdN-wzi65w886Ae71qUObo2hhruM">
+<br/>
 <img width="1184" height="106" alt="image" src="https://github.com/user-attachments/assets/5d986a8c-5645-4471-ba55-bcc92051c256" />
 
 <div align="left">
@@ -45,3 +49,5 @@ https://tokscale.ai/u/pinion05
 
 ###
 [![OpenCode](https://img.shields.io/badge/Developed%20with-OpenCode-blue?logo=github&logoColor=white)](https://opencode.ai)
+<br/>
+https://tokscale.ai/u/pinion05

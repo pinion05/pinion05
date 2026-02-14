@@ -16,7 +16,6 @@
 
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.licdn.com/dms/image/v2/D4D22AQEvwZwrv624cQ/feedshare-shrink_800/feedshare-shrink_800/0/1701952933212?e=1769644800&amp;v=beta&amp;t=3GfSsqkLkRPQh7fBdN-wzi65w886Ae71qUObo2hhruM">
 <img width="511" height="172" alt="image" src="https://github.com/user-attachments/assets/7e73a621-db06-466b-8631-d02b176a3e9a" />
 
 <div align="left">

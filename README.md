@@ -50,6 +50,5 @@
 ###
 
 ###
-[![OpenCode](https://img.shields.io/badge/Developed%20with-OpenCode-blue?logo=github&logoColor=white)](https://opencode.ai)
-<br/>
-https://tokscale.ai/u/pinion05
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/pinion05/svg)](https://tokscale.ai/u/pinion05)

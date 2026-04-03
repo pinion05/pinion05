@@ -49,8 +49,6 @@
 
 ###
 
-<p align="left">🌐Bye World!</p>
-
 ###
 [![OpenCode](https://img.shields.io/badge/Developed%20with-OpenCode-blue?logo=github&logoColor=white)](https://opencode.ai)
 <br/>

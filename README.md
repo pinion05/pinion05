@@ -53,4 +53,4 @@
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/pinion05/svg)](https://tokscale.ai/u/pinion05)
 
-*only use GitHub through an agent.
+* I operate GitHub solely through agents.

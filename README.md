@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mc-heart.svg" width="200" alt="spinning voxel Minecraft heart" />
+  <img src="mc-heart.svg" width="200" alt="3D voxel Minecraft heart" />
 </p>
 
 <!-- <br clear="both"> -->
